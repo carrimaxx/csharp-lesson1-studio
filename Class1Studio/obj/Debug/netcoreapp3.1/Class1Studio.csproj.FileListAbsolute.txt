@@ -1,0 +1,13 @@
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\bin\Debug\netcoreapp3.1\Class1Studio.exe
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\bin\Debug\netcoreapp3.1\Class1Studio.deps.json
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\bin\Debug\netcoreapp3.1\Class1Studio.runtimeconfig.json
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\bin\Debug\netcoreapp3.1\Class1Studio.runtimeconfig.dev.json
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\bin\Debug\netcoreapp3.1\Class1Studio.dll
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\bin\Debug\netcoreapp3.1\Class1Studio.pdb
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\obj\Debug\netcoreapp3.1\Class1Studio.csprojAssemblyReference.cache
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\obj\Debug\netcoreapp3.1\Class1Studio.AssemblyInfoInputs.cache
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\obj\Debug\netcoreapp3.1\Class1Studio.AssemblyInfo.cs
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\obj\Debug\netcoreapp3.1\Class1Studio.csproj.CoreCompileInputs.cache
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\obj\Debug\netcoreapp3.1\Class1Studio.dll
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\obj\Debug\netcoreapp3.1\Class1Studio.pdb
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Studios\Class1Studio\Class1Studio\obj\Debug\netcoreapp3.1\Class1Studio.genruntimeconfig.cache
